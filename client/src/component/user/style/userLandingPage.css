@@ -1,0 +1,19 @@
+#userLandingPage{
+    background-color: rgb(243, 241, 241);
+}
+#mainLeft{
+    background-color: #ffffff;
+    border-radius: 10px;
+    max-width: 2000px !important;
+    height: 100%;   
+}
+
+#userUl {
+    padding: 0px;
+}
+
+#userUl li{
+    /* margin: 20px;; */
+    padding: 10px;
+    list-style-type: none;;
+}

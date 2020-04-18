@@ -1,0 +1,9 @@
+.mainFile{
+    /* display: flex; */
+    /* justify-content: center; */
+
+    /* padding: 200px; */
+}
+.mainFile p{
+    margin: 20px
+}

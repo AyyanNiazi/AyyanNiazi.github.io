@@ -1,0 +1,21 @@
+.myCont{
+    /* background-color: #E8E8E8; */
+    /* text-align: center */
+    padding-left: 70px;
+}
+.col-lg-6 h3{
+    
+    color: #333333
+}
+.col-lg-6 p{
+    color: #999999
+}
+.andApp{
+    border: 1px solid #A4c739;
+    background-color: #A4c739;
+    margin-right: 20px;
+    font-size: 20px
+}
+.iosApp{
+    font-size: 20px
+}

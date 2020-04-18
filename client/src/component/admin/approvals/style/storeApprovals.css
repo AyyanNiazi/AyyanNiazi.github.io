@@ -1,0 +1,16 @@
+.updated{
+    background-color: limegreen;
+    font-size: 16px;
+    padding: 5px;
+    color: #f1f1f1;
+    cursor: pointer;
+}
+.pending{
+    background-color: #d3d2d2;
+    pointer-events: none;
+    cursor: not-allowed;
+    color: #d3d2d2;
+    padding: 5px;
+    /* display: none; */
+
+}

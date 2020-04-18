@@ -1,0 +1,25 @@
+#mainNav{
+    background-color: #763240; 
+  /* background-image: linear-gradient(to bottom right, #441a23, #a85c6b */
+}
+
+#userNav{
+ text-align: center;
+}
+
+#userNav li{
+    padding: 15px 20px 10px 20px;
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 18px;
+    cursor: pointer;
+}
+#userNav li a{
+  /* padding: 15px 20px 10px 20px; */
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+}

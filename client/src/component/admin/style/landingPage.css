@@ -1,0 +1,33 @@
+/* .containerUl li {
+    
+}
+.navContainer{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.navUl{
+    flex-grow: 8;
+    /* justify-content: end;
+    align-items: flex-start; */
+    
+
+
+.containerUl li {
+    /* display: inline-block; */
+    padding: 10px 20px;
+    color: #f1f1f1;
+    font-size: 16px;
+    font-weight: 500;
+}
+.containerUl li a{
+    text-decoration: none;
+    /* display: inline-block; */
+  color: #f1f1f1;
+}
+.containerUl{
+    background-color: #222d32;
+    padding: 0px;
+    /* display: flex; */
+    /* flex-direction: column; */
+}

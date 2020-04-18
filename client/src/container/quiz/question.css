@@ -1,0 +1,28 @@
+.questionsUl li{
+    display: inline-block;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 20px
+}
+
+.correct{
+    cursor: not-allowed;
+    background: white;
+    color: black
+}
+.normal{
+    cursor: not-allowed;
+    background: black;
+    color: white;
+}
+.normal {
+    cursor: pointer;
+    opacity: 0.5;
+}
+.myBtn{
+    background: #999999;
+    color: white;
+    font-size: 16px;
+    padding: 20px;
+    cursor: pointer;
+}

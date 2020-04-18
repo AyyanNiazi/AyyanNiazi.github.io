@@ -1,0 +1,61 @@
+.bg{
+    background-image: url('../../dynamic/images/adminLogin2.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 750px;
+    position: relative;
+}
+.form{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    background-color: black;
+    padding: 60px;
+    opacity: 0.6;
+}
+.form h1{
+    color: white;
+    font-weight: 600;
+}
+.form input{
+    width: 15vw;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-bottom: 4px solid #ffffff;
+    margin-bottom: 30px;
+    display: block;
+    color: #ffffff;
+    /* padding-left: 20px; */
+    
+}
+.form input::placeholder{
+    font-size: 1.2em;
+    color: #ffffff;
+    font-weight: 600;
+    margin-left: -20px;
+}
+
+.form button{
+    background-color: transparent;
+    border: 3px solid #ffffff;
+    width: 100%;
+    padding: 7px 20px;
+    font-size: 1.2em;
+    color: #ffffff;
+    margin-top: 20px ;
+    transition: 0.7s ease-in-out;
+    font-weight: 600;
+
+}
+.form button:hover{
+    background-color: #ebe9e9;
+    color: black;
+    font-weight: 600;
+}
+.form p {
+    color: #ffffff;
+    font: 600px;
+    text-align: right;
+    margin-top: 10px;
+    cursor: pointer;
+}

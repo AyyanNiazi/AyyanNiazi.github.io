@@ -1,0 +1,79 @@
+#stockL{
+    border-right: 1px solid #999;
+    padding: 10px;
+}
+
+#stockR{
+    padding: 10px;
+    border: 1px solid #999;
+    background-color: rgb(241, 239, 239);
+    box-shadow: 2px 2px 5px 4px rgb(146, 146, 146) ;
+    margin: 10px;
+    position: relative;
+    /* pointer-events: none; */
+}
+
+#stockR p{
+    margin: 0px;
+    color: black !important;
+    font-weight: 700;
+}
+#stockR img{
+    width: 4vw;
+    height: 7vh;
+    border-radius: 8px;
+}
+
+#stockR #delAllStock{
+    /* position: absolute; */
+    top: 0px;
+    right: 0px;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(31, 31, 31);
+}
+#editProdImage{
+    border: 5px dashed rgb(189, 186, 186);
+    background-color: rgb(252, 249, 249);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    transition: 0.6s ease-in-out;
+}
+
+#editProdImage .imgCenter{
+    position: absolute;
+    top: 35%;
+    text-align: center;
+    left: 20%;
+}
+
+#editProdImage:hover{
+    transform: scale(0.8);
+    /* opacity: 0.5; */
+}
+
+#AgaiProdImage{
+    background-color: rgb(252, 249, 249);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    transition: 0.6s ease-in-out;
+}
+
+#AgaiProdImage .imgCenter{
+    position: absolute;
+    top: 0;
+    text-align: center;
+    /* left: 20%; */
+    width: 300px;
+    height: 300px;
+}
+#AgaiProdImage:hover{
+    transform: scale(0.8);
+    /* opacity: 0.5; */
+}

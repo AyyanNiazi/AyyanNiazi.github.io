@@ -1,0 +1,9 @@
+.bannerImage img{
+    /* background-position: fixed; */
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.storeProduct{
+    margin-top: 20px;
+}
