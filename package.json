@@ -37,7 +37,7 @@
     "passport-google-oauth": "^2.0.0",
     "prop-types": "^15.7.2",
     "socket.io": "^2.3.0",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "bugs": {
     "url": "https://github.com/AyyanNiazi/vadharya/issues"
